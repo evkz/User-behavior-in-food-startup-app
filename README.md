@@ -4,4 +4,5 @@
     * Check if there is a statistically significant difference between samples with different set of fonts, which one  produces better results.
 * The repository contain: 
     * logs_exp_us- csv file with raw data 
-    * logs_exp_us.ipynb file with the analysis report 
+    * food startup.ipynb file with the analysis report 
+    * 5 png files with graphs images (newplot0, newplot1, newplot2, newplot3, newplot4) 
